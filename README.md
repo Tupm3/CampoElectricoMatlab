@@ -9,11 +9,11 @@ En un recuadro de la simulación, el usuario podrá especificar las coordenadas 
       * Alan Eduardo Aquino Rosas
       * Tomás Ulises Peña Martínez
 ### Notas:
-   * Link de Explicación Campo Eléctrico:
+     * Link de Explicación Campo Eléctrico:
        * http://www.sc.ehu.es/sbweb/fisica3/electrico/dipolo/dipolo.html
-   * Link Video YouTube:
+     * Link Video YouTube:
        * https://www.youtube.com/watch?v=k9srU6aQfL0
 -------------------------------------------------------------------------
-*Última Versión Estable: 27/04/2020 22:04
+* Última Versión Estable: 27/04/2020 22:04
 .........................................................................
 我是Dass.
