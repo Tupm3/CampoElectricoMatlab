@@ -1,6 +1,5 @@
 # CampoElectricoMatlab
-Simulación de Campos Eléctricos entre Placas de tamaños distintos
-%==================
+==================
 || Entregable 3 ||
 ===================
 Instrucciones: Simulación computacional del campo eléctrico, en MATLAB, 
