@@ -1,4 +1,4 @@
-# Campo Electrico Matlab
+# Campo Eléctrico Matlab
 -------------------------
 Simulación computacional del campo eléctrico, en MATLAB, producido por dos electrodos de placas planas, paralelas, de carga opuesta y el usuario podrá modificar el tamaño de una de las placas. 
 En un recuadro de la simulación, el usuario podrá especificar las coordenadas (x,y,z) de un punto entre las placas, y se debe mostrar en ese mismo recuadro los valores de las componentes (Ex,Ey,Ez) del campo eléctrico en ese punto.
