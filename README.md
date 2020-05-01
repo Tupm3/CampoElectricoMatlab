@@ -21,7 +21,7 @@ Notas:
        - http://www.sc.ehu.es/sbweb/fisica3/electrico/dipolo/dipolo.html
    Link Video YouTube:
        - https://www.youtube.com/watch?v=k9srU6aQfL0
------------------------------------------------------------------------
+-------------------------------------------------------------------------
 Última Versión Estable: 27/04/2020 22:04
 =========================================================================
 
