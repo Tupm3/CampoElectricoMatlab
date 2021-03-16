@@ -16,4 +16,3 @@ En un recuadro de la simulación, el usuario podrá especificar las coordenadas 
 -------------------------------------------------------------------------
 * Última Versión Estable: 27/04/2020 22:04
 -------------------------------------------------------------------------
-我是Dass.
